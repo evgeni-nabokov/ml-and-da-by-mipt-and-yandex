@@ -35,5 +35,4 @@ config.rst
 venv
 .venv
 Workbench.ipynb
-.ipynb_checkpoints
 Peers
