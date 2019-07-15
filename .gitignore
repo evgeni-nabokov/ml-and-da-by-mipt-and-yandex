@@ -36,3 +36,6 @@ venv
 .venv
 Workbench.ipynb
 Peers
+lectures_batches
+school_batches
+lectures_model
